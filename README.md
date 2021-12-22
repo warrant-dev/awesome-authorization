@@ -37,7 +37,7 @@ Authorization / Authorisation / Authz - "the process of verifying that a request
 - [Mandatory Access Control (MAC)](https://en.wikipedia.org/wiki/Mandatory_access_control)
 
 ## Security Concerns
-- Broken access control is [#1]((https://owasp.org/Top10/A01_2021-Broken_Access_Control/)) on [OWASP's Top 10 for 2021](https://owasp.org/Top10/)
+- Broken access control is [first]((https://owasp.org/Top10/A01_2021-Broken_Access_Control/)) on [OWASP's Top 10 for 2021](https://owasp.org/Top10/)
 - Insecure Direct Object Reference
   - [IDOR & How to Protect Against It](https://blog.warrant.dev/insecure-direct-object-reference)
   - [The Rise of IDOR](https://www.hackerone.com/resources/hackerone/the-rise-of-idor)
