@@ -1,5 +1,5 @@
 <div align="center" alt="Warrant">
-    <a href="https://warrant.dev/">
+    <a href="https://warrant.dev/" target="_blank">
         <img src="https://warrant.dev/images/warrant_logo_white.png" style="width: 25%; height: 25%" />
     </a>
     </br></br></br>
@@ -9,7 +9,7 @@
 
 > A curated list of information and resources about authorization.
 
-Contributions welcome! Please see the contribution guide.
+Contributions welcome! Please see the [contribution guide](CONTRIBUTING.md).
 
 ## Table of Contents
 - [Overview](#overview)
