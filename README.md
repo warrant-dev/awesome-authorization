@@ -1,8 +1,15 @@
+<div align="center" alt="Warrant">
+    <a href="https://warrant.dev/" target="_blank">
+        <img src="https://warrant.dev/images/warrant_logo_white.png" style="width: 30%; height: 30%" />
+    </a>
+    </br></br></br>
+</div>
+
 # Awesome Authorization [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-> A list dedicated to information and resources about authorization.
+> A curated list of information and resources about authorization.
 
-Contributions welcome! Please see the contribution guide.
+Contributions welcome! Please see the [contribution guide](CONTRIBUTING.md).
 
 ## Table of Contents
 - [Overview](#overview)
