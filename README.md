@@ -1,8 +1,10 @@
 <div align="center" alt="Warrant">
     <a href="https://warrant.dev/" target="_blank">
-        <img src="https://warrant.dev/images/warrant_logo_wide.png" style="width: 30%; height: 30%" />
+        <img src="https://warrant.dev/images/warrant_logo_wide.png" width="400">
     </a>
-    </br></br></br>
+    </br>
+    </br>
+    </br>
 </div>
 
 # Awesome Authorization [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
