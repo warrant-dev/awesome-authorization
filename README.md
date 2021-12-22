@@ -7,7 +7,7 @@
 
 # Awesome Authorization [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-> A list dedicated to information and resources about authorization.
+> A curated list of information and resources about authorization.
 
 Contributions welcome! Please see the contribution guide.
 
