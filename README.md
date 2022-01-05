@@ -64,6 +64,7 @@ Authorization / Authorisation / Authz - "the process of verifying that a request
 - [Implementing Role Based Access Control](https://blog.warrant.dev/implementing-role-based-access-control)
 - [AWS - Authz & Access Control for SaaS Multi-tenant Apps](https://docs.aws.amazon.com/prescriptive-guidance/latest/saas-multitenant-api-access-authorization/welcome.html)
 - [Permissions Systems: Category Notes](https://kojo.blog/permissions-sytems/) - An overview of the permissions systems landscape.
+- [Best Practices for Building Secure API Keys](https://www.freecodecamp.org/news/best-practices-for-building-api-keys-97c26eabfea9/)
 
 ## Authz In Practice
 - [Zanzibar: Google's Consistent, Global Authorization System](https://research.google/pubs/pub48190/)
@@ -72,6 +73,7 @@ Authorization / Authorisation / Authz - "the process of verifying that a request
 - [Open Policy Agent](https://www.openpolicyagent.org/)
 - [XACML](https://en.wikipedia.org/wiki/XACML)
   - [Intuit's AuthZ](https://medium.com/intuit-engineering/authz-intuits-unified-dynamic-authorization-system-bea554d18f91)
+- [Stripe's Approach to API Keys](https://stripe.com/docs/keys)
 
 ## Videos & Talks
 - [How Netflix Is Solving Authorization Across Their Cloud (2017)](https://www.youtube.com/watch?v=R6tUNpRpdnY)
