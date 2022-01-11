@@ -1,8 +1,7 @@
 <div align="center" alt="Warrant">
     <a href="https://warrant.dev/" target="_blank">
-        <img src="https://warrant.dev/images/warrant_logo_wide.png" width="400">
+        <img src="https://warrant.dev/images/logo-primary-wide.png" width="300">
     </a>
-    </br>
     </br>
     </br>
 </div>
