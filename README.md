@@ -58,6 +58,7 @@ Authorization / Authorisation / Authz - "the process of verifying that a request
 - *Maintain an audit log* - Keep an authorization log (allow/deny) to track access and conduct audits where necessary.
 
 ## Useful Articles & Tutorials
+- [API Tokens: A Tedious Survey](https://fly.io/blog/api-tokens-a-tedious-survey/)
 - [Ask HN: Best Practices for Web Authorization? (2016)](https://news.ycombinator.com/item?id=11151790)
 - [AWS - Authz & Access Control for SaaS Multi-tenant Apps](https://docs.aws.amazon.com/prescriptive-guidance/latest/saas-multitenant-api-access-authorization/welcome.html)
 - [Best Practices for Building Secure API Keys](https://www.freecodecamp.org/news/best-practices-for-building-api-keys-97c26eabfea9/)
@@ -66,6 +67,7 @@ Authorization / Authorisation / Authz - "the process of verifying that a request
 - [Web App Access Control Design](https://owasp.org/www-pdf-archive/ASDC12-Access_Control_Designs_and_Pitfalls.pdf) - A presentation highlighting best practices for implementing access control in web apps.
 
 ## Authz In Practice
+- [Github Secret Scanning](https://docs.github.com/en/code-security/secret-scanning/about-secret-scanning)
 - [Open Policy Agent](https://www.openpolicyagent.org/)
 - [Stripe's Approach to API Keys](https://stripe.com/docs/keys)
 - [XACML](https://en.wikipedia.org/wiki/XACML)
