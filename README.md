@@ -1,5 +1,5 @@
 <div align="center" alt="Warrant">
-    <a href="https://warrant.dev/" target="_blank">
+    <a href="https://warrant.dev/?utm_source=awesome-authz" target="_blank">
         <img src="https://warrant.dev/images/logo-primary-wide.png" width="300">
     </a>
     </br>
@@ -49,6 +49,7 @@ Authorization / Authorisation / Authz - "the process of verifying that a request
 - Insecure Direct Object Reference
   - [IDOR & How to Protect Against It](https://blog.warrant.dev/insecure-direct-object-reference)
   - [The Rise of IDOR](https://www.hackerone.com/resources/hackerone/the-rise-of-idor)
+  - [What is IDOR?](https://portswigger.net/web-security/access-control/idor)
 
 ## Best Practices
 - [OWASP Recommendations](https://cheatsheetseries.owasp.org/cheatsheets/Authorization_Cheat_Sheet.html#recommendations)
@@ -67,6 +68,7 @@ Authorization / Authorisation / Authz - "the process of verifying that a request
 - [Web App Access Control Design](https://owasp.org/www-pdf-archive/ASDC12-Access_Control_Designs_and_Pitfalls.pdf) - A presentation highlighting best practices for implementing access control in web apps.
 
 ## Authz In Practice
+- [Betterment's Approach to Authz](https://www.betterment.com/engineering/security-framework)
 - [Github Secret Scanning](https://docs.github.com/en/code-security/secret-scanning/about-secret-scanning)
 - [Open Policy Agent](https://www.openpolicyagent.org/)
 - [Stripe's Approach to API Keys](https://stripe.com/docs/keys)
