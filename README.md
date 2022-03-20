@@ -12,7 +12,7 @@
 
 Contributions welcome! Please see the [contribution guide](CONTRIBUTING.md).
 
-## Table of Contents
+## Contents
 - [Overview](#overview)
 - [Authentication vs. Authorization](#authentication-vs-authorization)
 - [Access Control Models](#access-control-models)
@@ -69,7 +69,7 @@ Authorization / Authorisation / Authz - "the process of verifying that a request
 
 ## Authz In Practice
 - [Betterment's Approach to Authz](https://www.betterment.com/engineering/security-framework)
-- [Github Secret Scanning](https://docs.github.com/en/code-security/secret-scanning/about-secret-scanning)
+- [GitHub Secret Scanning](https://docs.github.com/en/code-security/secret-scanning/about-secret-scanning)
 - [Open Policy Agent](https://www.openpolicyagent.org/)
 - [Stripe's Approach to API Keys](https://stripe.com/docs/keys)
 - [XACML](https://en.wikipedia.org/wiki/XACML)
