@@ -24,7 +24,6 @@
 
 ## Overview
 - [NIST Authorization Definition](https://csrc.nist.gov/glossary/term/authorization) - "The process of verifying that a requested action or service is approved for a specific entity".
-- [OWASP Authorization Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Authorization_Cheat_Sheet.html) - Overview and best practices.
 
 ## Authentication vs. Authorization
 - [Authentication](https://en.wikipedia.org/wiki/Authentication) - Determines *who* someone or something is (identity).
@@ -48,7 +47,7 @@
   - [What is IDOR?](https://portswigger.net/web-security/access-control/idor)
 
 ## Best Practices
-- [OWASP Authorization Cheat Sheet & Recommendations](https://cheatsheetseries.owasp.org/cheatsheets/Authorization_Cheat_Sheet.html) - Authz overview and recommendations for best practices:
+- [OWASP Authorization Cheat Sheet & Recommendations](https://cheatsheetseries.owasp.org/cheatsheets/Authorization_Cheat_Sheet.html) - Authz overview and recommendations for best practices.
   - Enforce least privileges and deny by default - Ensure that users and systems only have access to what they need and nothing else.
   - As fine-grained as possible - Authorization checks should be as specific as possible. Ideally, this means the system has the ability to check access based on specific records and resources.
   - Implement once and reuse - Keep authz logic in one place to ensure consistent checks and to prevent missed cases and potential security holes.
@@ -64,15 +63,15 @@
 - [Web App Access Control Design](https://owasp.org/www-pdf-archive/ASDC12-Access_Control_Designs_and_Pitfalls.pdf) - A presentation highlighting best practices for implementing access control in web apps.
 
 ## Authz In Practice
-- [What’s the Best Authorization Framework? None At All](https://www.betterment.com/engineering/security-framework) - Opinionated blog post detailing Betterment's approach to authz.
+- [What's the Best Authorization Framework? None At All](https://www.betterment.com/engineering/security-framework) - Opinionated blog post detailing Betterment's approach to authz.
 - [GitHub Secret Scanning](https://docs.github.com/en/code-security/secret-scanning/about-secret-scanning) - How GitHub scans repos to search for exposed secrets.
 - [Open Policy Agent](https://www.openpolicyagent.org/) - A policy-based framework for authorization and access control.
 - [Stripe API Docs](https://stripe.com/docs/keys) - Stripe's approach to issuing and managing API keys securely.
 - [XACML](https://en.wikipedia.org/wiki/XACML) - Standard that defines the "Extensible Access Control Markup Language," a declarative fine-grained, attribute-based access control policy language.
-  - [Intuit's AuthZ](https://medium.com/intuit-engineering/authz-intuits-unified-dynamic-authorization-system-bea554d18f91) - Post detailing Intuit's implementation of an XACML-based authz service.
+  - [Intuit AuthZ](https://medium.com/intuit-engineering/authz-intuits-unified-dynamic-authorization-system-bea554d18f91) - Post detailing Intuit's implementation of an XACML-based authz service.
 - [Google Zanzibar](https://research.google/pubs/pub48190/) - Google's consistent, global authorization system.
-  - [Airbnb's Himeji](https://medium.com/airbnb-engineering/himeji-a-scalable-centralized-system-for-authorization-at-airbnb-341664924574) - Based on Zanzibar.
-  - [Carta's AuthZ](https://medium.com/building-carta/authz-cartas-highly-scalable-permissions-system-782a7f2c840f) - Also based on Zanzibar.
+  - [Airbnb Himeji](https://medium.com/airbnb-engineering/himeji-a-scalable-centralized-system-for-authorization-at-airbnb-341664924574) - Based on Zanzibar.
+  - [Carta AuthZ](https://medium.com/building-carta/authz-cartas-highly-scalable-permissions-system-782a7f2c840f) - Also based on Zanzibar.
 
 ## Videos & Talks
 - [Hashicorp - Microservice Authentication and Authorization (2019)](https://www.youtube.com/watch?v=ZjPF8yZ83Wo)
