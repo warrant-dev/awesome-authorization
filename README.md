@@ -45,6 +45,8 @@
   - [IDOR & How to Protect Against It](https://blog.warrant.dev/insecure-direct-object-reference)
   - [The Rise of IDOR](https://www.hackerone.com/resources/hackerone/the-rise-of-idor)
   - [What is IDOR?](https://portswigger.net/web-security/access-control/idor)
+  - [Broken Object Level Authorization](https://apisecurity.io/encyclopedia/content/owasp/api1-broken-object-level-authorization)
+- [Broken Function Level Authorization](https://apisecurity.io/encyclopedia/content/owasp/api5-broken-function-level-authorization) - API incorrectly relies on the client to use the correct access level making it susceptible to hackers.
 
 ## Best Practices
 - [OWASP Authorization Cheat Sheet & Recommendations](https://cheatsheetseries.owasp.org/cheatsheets/Authorization_Cheat_Sheet.html) - Authz overview and recommendations for best practices.
