@@ -58,12 +58,13 @@
 ## Useful Articles & Tutorials
 - [API Tokens: A Tedious Survey](https://fly.io/blog/api-tokens-a-tedious-survey/) - An overview of different approaches to API security.
 - [Ask HN: Best Practices for Web Authorization? (2016)](https://news.ycombinator.com/item?id=11151790) - HN discussion about application authorization best practices.
+- [Authorization in a Microservices World](https://www.alexanderlolis.com/authorization-in-a-microservices-world) - Covers approaches to authorization in microservices.
 - [AWS - Authz & Access Control for SaaS Multi-tenant Apps](https://docs.aws.amazon.com/prescriptive-guidance/latest/saas-multitenant-api-access-authorization/welcome.html) - How-to/implementation guide for authz in multi-tenant apps using AWS.
 - [Best Practices for Building Secure API Keys](https://www.freecodecamp.org/news/best-practices-for-building-api-keys-97c26eabfea9/) - Covers hashing, storage and key retrieval.
+- [How To Structure Permissions In A SaaS App](https://heap.io/blog/structure-permissions-saas-app) - Talks about approaches to RBAC, ACLs etc in SaaS apps.
 - [Implementing Role Based Access Control](https://blog.warrant.dev/implementing-role-based-access-control) - How-to/implementation guide for basic RBAC in an application.
 - [Permissions Systems: Category Notes](https://kojo.blog/permissions-sytems/) - An overview of the permissions systems landscape.
 - [Web App Access Control Design](https://owasp.org/www-pdf-archive/ASDC12-Access_Control_Designs_and_Pitfalls.pdf) - A presentation highlighting best practices for implementing access control in web apps.
-- [Authorization in a Microservices World](https://www.alexanderlolis.com/authorization-in-a-microservices-world) - Covers approaches to authorization in microservices.
 
 ## Authz In Practice
 - [What's the Best Authorization Framework? None At All](https://www.betterment.com/engineering/security-framework) - Opinionated blog post detailing Betterment's approach to authz.
