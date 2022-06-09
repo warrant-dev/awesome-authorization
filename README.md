@@ -40,7 +40,8 @@
 - [RBAC](https://en.wikipedia.org/wiki/Role-based_access_control) - Role based access control.
 
 ## Security Concerns
-- [OWASP's Top 10 for 2021](https://owasp.org/Top10/) - List of the top 10 web application security risks. Broken access control is [#1](https://owasp.org/Top10/A01_2021-Broken_Access_Control/) on the list.
+- [OWASP API Security Top 10 2019](https://owasp.org/www-project-api-security/) - List of the top 10 security risks for APIs.
+- [OWASP Top 10 for 2021](https://owasp.org/Top10/) - List of the top 10 web application security risks. Broken access control is [#1](https://owasp.org/Top10/A01_2021-Broken_Access_Control/) on the list.
 - Insecure Direct Object Reference
   - [IDOR & How to Protect Against It](https://blog.warrant.dev/insecure-direct-object-reference)
   - [The Rise of IDOR](https://www.hackerone.com/resources/hackerone/the-rise-of-idor)
