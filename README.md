@@ -48,6 +48,7 @@
   - [What is IDOR?](https://portswigger.net/web-security/access-control/idor)
   - [Broken Object Level Authorization](https://apisecurity.io/encyclopedia/content/owasp/api1-broken-object-level-authorization)
 - [Broken Function Level Authorization](https://apisecurity.io/encyclopedia/content/owasp/api5-broken-function-level-authorization) - API incorrectly relies on the client to use the correct access level making it susceptible to hackers.
+- [Building a Modern Zero Trust Strategy](https://thenewstack.io/ebooks/security/trust-no-one-and-automate-almost-everything-building-a-modern-zero-trust-strategy) - Overview of 'zero trust' security by [Newstack](https://thenewstack.io/). (Need to enter email to download e-book)
 
 ## Best Practices
 - [OWASP Authorization Cheat Sheet & Recommendations](https://cheatsheetseries.owasp.org/cheatsheets/Authorization_Cheat_Sheet.html) - Authz overview and recommendations for best practices.
