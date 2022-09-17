@@ -6,7 +6,7 @@
     <br />
 </div>
 
-# Awesome Authorization [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) ![GitHub Repo stars](https://img.shields.io/github/stars/warrant-dev/awesome-authorization?style=social)
+# Awesome Authorization [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![GitHub Repo stars](https://img.shields.io/github/stars/warrant-dev/awesome-authorization?style=social)](https://github.com/warrant-dev/awesome-authorization)
 
 > A curated list of information and best practices for authorization and access control.
 
