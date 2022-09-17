@@ -2,11 +2,11 @@
     <a href="https://warrant.dev/?utm_source=awesome-authz" target="_blank">
         <img src="https://warrant.dev/images/logo-primary-wide.png" width="300">
     </a>
-    </br>
-    </br>
+    <br />
+    <br />
 </div>
 
-# Awesome Authorization [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+# Awesome Authorization [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) ![GitHub Repo stars](https://img.shields.io/github/stars/warrant-dev/awesome-authorization?style=social)
 
 > A curated list of information and best practices for authorization and access control.
 
