@@ -71,6 +71,7 @@
 - [Permissions Systems: Category Notes](https://kojo.blog/permissions-sytems/) - An overview of the permissions systems landscape.
 - [Web App Access Control Design](https://owasp.org/www-pdf-archive/ASDC12-Access_Control_Designs_and_Pitfalls.pdf) - A presentation highlighting best practices for implementing access control in web apps.
 - [What Do Authentication and Authorization Mean in Zero Trust?](https://thenewstack.io/what-do-authentication-and-authorization-mean-in-zero-trust/) - How to think about Authn and Authz within a Zero Trust Architecture.
+- [Feature Flags and Authorization Abstract the Same Concept](https://ntietz.com/blog/feature-flags-and-authorization/) - A blog post comparing the many similarities and subtle differences between feature flagging and authorization.
 
 ## Authz In Practice
 - [What's the Best Authorization Framework? None At All](https://www.betterment.com/engineering/security-framework) - Opinionated blog post detailing Betterment's approach to authz.
