@@ -85,6 +85,7 @@
   - [Carta AuthZ](https://medium.com/building-carta/authz-cartas-highly-scalable-permissions-system-782a7f2c840f) - Also based on Zanzibar.
 - [Securing Apache Airflow UI With DAG Level Access](https://eng.lyft.com/securing-apache-airflow-ui-with-dag-level-access-a7bc649a2821) - How Lyft set up fine-grained (DAG-level) access control on top of Apache Airflow.
 - [Authorization Solutions for Microservices Architecture](https://medium.com/appsflyerengineering/authorization-solution-for-microservices-architecture-a2ac0c3c510b) - How AppsFlyer approaches authz in their microservices architecture.
+- [Reddit - Evolving Authorization for Our Advertising Platform](https://www.reddit.com/r/RedditEng/comments/13vttm8/evolving_authorization_for_our_advertising/) - Summary of Reddit's internal fine-grained authz system built for the advertising platform.
 
 ## Videos & Talks
 - [Hashicorp - Microservice Authentication and Authorization (2019)](https://www.youtube.com/watch?v=ZjPF8yZ83Wo)
