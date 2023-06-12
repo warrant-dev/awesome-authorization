@@ -92,3 +92,4 @@
 - [Hashicorp - Microservice Authentication and Authorization (2019)](https://www.youtube.com/watch?v=ZjPF8yZ83Wo)
 - [How Netflix Is Solving Authorization Across Their Cloud (2017)](https://www.youtube.com/watch?v=R6tUNpRpdnY)
 - [Deloitte - How Zero Trust Architecture Can Be Strengthened with ABAC (2022)](https://www.youtube.com/watch?v=-XFn85HtVDA)
+- [@Scale 2019 - Zanzibar: Google’s Consistent, Global Authorization System](https://www.facebook.com/atscaleevents/videos/scale-2019-zanzibar-googles-consistent-global-authorization-system/524366141717632/)
