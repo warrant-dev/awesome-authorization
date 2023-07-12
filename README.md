@@ -81,6 +81,7 @@
 - [XACML](https://en.wikipedia.org/wiki/XACML) - Standard that defines the "Extensible Access Control Markup Language," a declarative fine-grained, attribute-based access control policy language.
   - [Intuit AuthZ](https://medium.com/intuit-engineering/authz-intuits-unified-dynamic-authorization-system-bea554d18f91) - Post detailing Intuit's implementation of an XACML-based authz service.
 - [Google Zanzibar](https://research.google/pubs/pub48190/) - Google's consistent, global authorization system.
+  - [Why Google Zanzibar Shines at Building Authorization](https://blog.warrant.dev/why-zanzibar-shines-at-building-authorization/) - A blog post detailing why Google Zanzibar is especially well suited to solving application authorization.
   - [Airbnb Himeji](https://medium.com/airbnb-engineering/himeji-a-scalable-centralized-system-for-authorization-at-airbnb-341664924574) - Based on Zanzibar.
   - [Carta AuthZ](https://medium.com/building-carta/authz-cartas-highly-scalable-permissions-system-782a7f2c840f) - Also based on Zanzibar.
 - [Securing Apache Airflow UI With DAG Level Access](https://eng.lyft.com/securing-apache-airflow-ui-with-dag-level-access-a7bc649a2821) - How Lyft set up fine-grained (DAG-level) access control on top of Apache Airflow.
