@@ -52,6 +52,7 @@
 - [Building a Modern Zero Trust Strategy](https://thenewstack.io/ebooks/security/trust-no-one-and-automate-almost-everything-building-a-modern-zero-trust-strategy) - Overview of 'zero trust' security by [Newstack](https://thenewstack.io/). (Need to enter email to download e-book)
 - [Retrospective on Coinbase Trading IDOR Vuln](https://blog.coinbase.com/retrospective-recent-coinbase-bug-bounty-award-9f127e04f060) - Retrospective by the Coinbase team detailing remediation of an IDOR/validation bug found via bug bounty.
 - [Why Broken Access Control is the Most Severe Vulnerability](https://infosecwriteups.com/why-broken-access-control-is-the-most-severe-vulnerability-2223baf9bb48) - Overview of broken access control exploits including IDOR as well as best practices.
+- [Millions of people's data stolen because web devs forget to check access perms](https://www.theregister.com/2023/07/29/cisa_nsa_idor_australia/) - CISA, NSA and the Australian Cyber Security Centre alert on the prevalence and danger of IDOR attacks.
 
 ## Best Practices
 - [OWASP Authorization Cheat Sheet & Recommendations](https://cheatsheetseries.owasp.org/cheatsheets/Authorization_Cheat_Sheet.html) - Authz overview and recommendations for best practices.
