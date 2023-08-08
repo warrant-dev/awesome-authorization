@@ -89,6 +89,7 @@
 - [Authorization Solutions for Microservices Architecture](https://medium.com/appsflyerengineering/authorization-solution-for-microservices-architecture-a2ac0c3c510b) - How AppsFlyer approaches authz in their microservices architecture.
 - [Reddit - Evolving Authorization for Our Advertising Platform](https://www.reddit.com/r/RedditEng/comments/13vttm8/evolving_authorization_for_our_advertising/) - Summary of Reddit's internal fine-grained authz system built for the advertising platform.
 - [Authorization at LinkedIn’s Scale](https://engineering.linkedin.com/blog/2019/03/authorization-at-linkedins-scale) - Summary of LinkedIn's high-performance authz system used within its microservices architecture.
+- [Attribute-Based Access Control at Uber](https://www.uber.com/blog/attribute-based-access-control-at-uber/) - Summary of Uber's internal, centralized ABAC system used within its microservices architecture.
 
 ## Videos & Talks
 - [Hashicorp - Microservice Authentication and Authorization (2019)](https://www.youtube.com/watch?v=ZjPF8yZ83Wo)
