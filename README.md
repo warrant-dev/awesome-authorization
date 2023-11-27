@@ -90,6 +90,7 @@
 - [Reddit - Evolving Authorization for Our Advertising Platform](https://www.reddit.com/r/RedditEng/comments/13vttm8/evolving_authorization_for_our_advertising/) - Summary of Reddit's internal fine-grained authz system built for the advertising platform.
 - [Authorization at LinkedIn’s Scale](https://engineering.linkedin.com/blog/2019/03/authorization-at-linkedins-scale) - Summary of LinkedIn's high-performance authz system used within its microservices architecture.
 - [Attribute-Based Access Control at Uber](https://www.uber.com/blog/attribute-based-access-control-at-uber/) - Summary of Uber's internal, centralized ABAC system used within its microservices architecture.
+- [Learnings from Building a Simple Authorization System (ABAC)](https://www.ubicloud.com/blog/learnings-from-building-a-simple-authorization-system-abac) - Ubicloud's learnings from building a simple ABAC authz system.
 
 ## Videos & Talks
 - [Hashicorp - Microservice Authentication and Authorization (2019)](https://www.youtube.com/watch?v=ZjPF8yZ83Wo)
