@@ -91,6 +91,7 @@
 - [Authorization at LinkedIn’s Scale](https://engineering.linkedin.com/blog/2019/03/authorization-at-linkedins-scale) - Summary of LinkedIn's high-performance authz system used within its microservices architecture.
 - [Attribute-Based Access Control at Uber](https://www.uber.com/blog/attribute-based-access-control-at-uber/) - Summary of Uber's internal, centralized ABAC system used within its microservices architecture.
 - [Learnings from Building a Simple Authorization System (ABAC)](https://www.ubicloud.com/blog/learnings-from-building-a-simple-authorization-system-abac) - Ubicloud's learnings from building a simple ABAC authz system.
+- [How We Built a Custom Permissions DSL at Figma](https://www.figma.com/blog/how-we-rolled-out-our-own-permissions-dsl-at-figma/) - Summary of how Figma built a custom permissions DSL for their product.
 
 ## Videos & Talks
 - [Hashicorp - Microservice Authentication and Authorization (2019)](https://www.youtube.com/watch?v=ZjPF8yZ83Wo)
