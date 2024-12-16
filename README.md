@@ -43,7 +43,6 @@
 - [OWASP API Security Top 10 2019](https://owasp.org/www-project-api-security/) - List of the top 10 security risks for APIs.
 - [OWASP Top 10 for 2021](https://owasp.org/Top10/) - List of the top 10 web application security risks. Broken access control is [#1](https://owasp.org/Top10/A01_2021-Broken_Access_Control/) on the list.
 - Insecure Direct Object Reference
-  - [IDOR & How to Protect Against It](https://blog.warrant.dev/insecure-direct-object-reference)
   - [The Rise of IDOR](https://www.hackerone.com/resources/hackerone/the-rise-of-idor)
   - [What is IDOR?](https://portswigger.net/web-security/access-control/idor)
   - [Broken Object Level Authorization](https://apisecurity.io/encyclopedia/content/owasp/api1-broken-object-level-authorization)
@@ -68,7 +67,6 @@
 - [AWS - Authz & Access Control for SaaS Multi-tenant Apps](https://docs.aws.amazon.com/prescriptive-guidance/latest/saas-multitenant-api-access-authorization/welcome.html) - How-to/implementation guide for authz in multi-tenant apps using AWS.
 - [Best Practices for Building Secure API Keys](https://www.freecodecamp.org/news/best-practices-for-building-api-keys-97c26eabfea9/) - Covers hashing, storage and key retrieval.
 - [How To Structure Permissions In A SaaS App](https://heap.io/blog/structure-permissions-saas-app) - Talks about approaches to RBAC, ACLs etc in SaaS apps.
-- [Implementing Role Based Access Control](https://blog.warrant.dev/implementing-role-based-access-control) - How-to/implementation guide for basic RBAC in an application.
 - [Permissions Systems: Category Notes](https://kojo.blog/permissions-sytems/) - An overview of the permissions systems landscape.
 - [Web App Access Control Design](https://owasp.org/www-pdf-archive/ASDC12-Access_Control_Designs_and_Pitfalls.pdf) - A presentation highlighting best practices for implementing access control in web apps.
 - [What Do Authentication and Authorization Mean in Zero Trust?](https://thenewstack.io/what-do-authentication-and-authorization-mean-in-zero-trust/) - How to think about Authn and Authz within a Zero Trust Architecture.
@@ -82,7 +80,7 @@
 - [XACML](https://en.wikipedia.org/wiki/XACML) - Standard that defines the "Extensible Access Control Markup Language," a declarative fine-grained, attribute-based access control policy language.
   - [Intuit AuthZ](https://medium.com/intuit-engineering/authz-intuits-unified-dynamic-authorization-system-bea554d18f91) - Post detailing Intuit's implementation of an XACML-based authz service.
 - [Google Zanzibar](https://research.google/pubs/pub48190/) - Google's consistent, global authorization system.
-  - [Why Google Zanzibar Shines at Building Authorization](https://blog.warrant.dev/why-zanzibar-shines-at-building-authorization/) - A blog post detailing why Google Zanzibar is especially well suited to solving application authorization.
+  - [Why Google Zanzibar Shines at Building Authorization](https://workos.com/blog/google-zanzibar-authorization) - A blog post detailing why Google Zanzibar is especially well suited to solving application authorization.
   - [Airbnb Himeji](https://medium.com/airbnb-engineering/himeji-a-scalable-centralized-system-for-authorization-at-airbnb-341664924574) - Based on Zanzibar.
   - [Carta AuthZ](https://medium.com/building-carta/authz-cartas-highly-scalable-permissions-system-782a7f2c840f) - Also based on Zanzibar.
 - [Securing Apache Airflow UI With DAG Level Access](https://eng.lyft.com/securing-apache-airflow-ui-with-dag-level-access-a7bc649a2821) - How Lyft set up fine-grained (DAG-level) access control on top of Apache Airflow.
