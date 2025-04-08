@@ -66,6 +66,7 @@
 - [Authorization in a Microservices World](https://www.alexanderlolis.com/authorization-in-a-microservices-world) - Covers approaches to authorization in microservices.
 - [AWS - Authz & Access Control for SaaS Multi-tenant Apps](https://docs.aws.amazon.com/prescriptive-guidance/latest/saas-multitenant-api-access-authorization/welcome.html) - How-to/implementation guide for authz in multi-tenant apps using AWS.
 - [Best Practices for Building Secure API Keys](https://www.freecodecamp.org/news/best-practices-for-building-api-keys-97c26eabfea9/) - Covers hashing, storage and key retrieval.
+- [Bring Your Own Identity: What Does It Mean for Authorization?](https://www.cerbos.dev/blog/bring-your-own-identity-what-does-it-mean-for-authorization) - Talks about BYOI, where users authenticate using third-party identity providers allowing the seperation of authentication from authorization.
 - [How To Structure Permissions In A SaaS App](https://heap.io/blog/structure-permissions-saas-app) - Talks about approaches to RBAC, ACLs etc in SaaS apps.
 - [Permissions Systems: Category Notes](https://kojo.blog/permissions-sytems/) - An overview of the permissions systems landscape.
 - [Web App Access Control Design](https://owasp.org/www-pdf-archive/ASDC12-Access_Control_Designs_and_Pitfalls.pdf) - A presentation highlighting best practices for implementing access control in web apps.
