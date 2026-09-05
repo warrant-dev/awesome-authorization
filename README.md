@@ -74,6 +74,7 @@
 
 ## Authz In Practice
 - [What's the Best Authorization Framework? None At All](https://www.betterment.com/engineering/security-framework) - Opinionated blog post detailing Betterment's approach to authz.
+- [Casdoor](https://github.com/casdoor/casdoor) - Open-source identity platform that pairs SSO with Casbin-backed RBAC/ABAC permission management.
 - [GitHub Secret Scanning](https://docs.github.com/en/code-security/secret-scanning/about-secret-scanning) - How GitHub scans repos to search for exposed secrets.
 - [Open Policy Agent](https://www.openpolicyagent.org/) - A policy-based framework for authorization and access control.
 - [Stripe API Docs](https://stripe.com/docs/keys) - Stripe's approach to issuing and managing API keys securely.
