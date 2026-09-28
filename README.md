@@ -73,6 +73,7 @@
 - [Feature Flags and Authorization Abstract the Same Concept](https://ntietz.com/blog/feature-flags-and-authorization/) - A blog post comparing the many similarities and subtle differences between feature flagging and authorization.
 
 ## Authz In Practice
+- [Aikonos](https://github.com/adamdekan/aikonos) - Self-hosted AI agent control plane: per-action authorization for agent tool calls via OPA policies and OpenFGA checks, single-use Biscuit capability tokens, and a signed, hash-chained audit log.
 - [What's the Best Authorization Framework? None At All](https://www.betterment.com/engineering/security-framework) - Opinionated blog post detailing Betterment's approach to authz.
 - [GitHub Secret Scanning](https://docs.github.com/en/code-security/secret-scanning/about-secret-scanning) - How GitHub scans repos to search for exposed secrets.
 - [Open Policy Agent](https://www.openpolicyagent.org/) - A policy-based framework for authorization and access control.
